@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreejithSreejayan
-- 👀 I’m interested in Mobile App Development and ML
-- 🌱 I’m currently learning almost EVERYTHING.
+- 👀 I’m interested in Mobile App Development,Ml and UI/UX.
+- 🌱 I’m currently learning React, Nodejs and JavaScript.
 
 
 <!---
