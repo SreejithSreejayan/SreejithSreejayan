@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=sreejithsreejayan&show_icons=true)
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/SreejithSreejayan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejithsreejayan&hide_langs_below=1" />
 </a>
 
